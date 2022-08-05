@@ -1,5 +1,5 @@
 # ThreePlay.class.php
-A simple PHP Class for working with the 3Play Media API (https://3playmedia.com)
+A simple PHP Class for interacting with the 3Play Media API (https://3playmedia.com)
 
 ## Basic Usage
 ```
