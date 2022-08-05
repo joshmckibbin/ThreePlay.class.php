@@ -1,5 +1,5 @@
 <?php
-namespace FoxODL\ThreePlay;
+namespace JMckio\ThreePlay;
 
 class ThreePlay {
 
