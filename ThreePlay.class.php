@@ -75,7 +75,7 @@ class ThreePlay {
             'name' => $name,
             'language_id' => $language_id,
             'source_file' => $cFile,
-            'batch_id' => ( $batch_id ? $batch_id : 4681 )
+            'batch_id' => $batch_id
         );
 
         $options = array(
